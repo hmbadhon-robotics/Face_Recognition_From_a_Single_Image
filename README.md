@@ -1,6 +1,7 @@
 # Face_Recognition_From_a_Single_Image
 <h1> Badhon - Robotics Team -  Trainee </h1>
-![test1](https://user-images.githubusercontent.com/111107434/209313489-ef770768-d147-4eda-b40a-931cd6ed81d0.png)
+![test1](https://user-images.githubusercontent.com/111107434/209313651-ccf461db-316a-4f8d-bb16-4d50dd4f7d76.png)
+
 
 <h1> Mredul Vai - GUI Team - Team Lead </h1>
 
